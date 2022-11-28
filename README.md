@@ -1,2 +1,2 @@
-# C++ coding
-Examples
+# C++
+Coding examples
