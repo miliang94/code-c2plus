@@ -1,2 +1,2 @@
-# code-c2plus
-C++ code
+# C++ coding
+Examples
